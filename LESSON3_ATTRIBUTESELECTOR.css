@@ -1,0 +1,10 @@
+ h1[id]		   {text-align:center;}
+		   
+ p[class]	   {text-align:center;
+		   font-family:Verdana;}
+
+ p[class="first"]  {background-color:#3498db;color:white;}
+
+ p[class="second"] {color:#3498db;}
+
+ p[class="third"]  {background-color:#3498db;color:white;}

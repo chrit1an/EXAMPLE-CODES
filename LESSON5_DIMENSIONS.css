@@ -1,0 +1,13 @@
+.head	   {text-align:center;
+	   color:#3498DB;}
+
+.paragraph {text-align:center;
+	   font-size:19px;
+	   font-family:Arial;}
+
+.first     {color:#3498DB;
+	   height:70%}
+
+.second    {background-color:#3498DB;
+	   color:white;
+	   width:70%}

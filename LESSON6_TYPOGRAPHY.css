@@ -1,0 +1,21 @@
+.head	     {text-align:center;
+	     color:#3498DB;}
+
+.paragraph   {text-align:center;
+	     font-size:19px;
+	     font-family:Arial;}
+
+.one       {color:#3498DB;}
+
+.two     {background-color:#3498DB;
+	     color:white;}
+
+.three   {color:#3498DB;
+	     font-style:italic;}
+
+.lol1	     {font-weight:bold;}
+.lol2	     {font-style:italic;}
+.lolB	     {font-size:30px;}
+.lolS	     {font-size:24px;}
+.LOL_   {text-decoration:overline;}
+.LOL-    {text-decoration:underline;}

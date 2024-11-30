@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="LESSON5_DIMENSIONS.css">
+	<title> DIV AND SPAN TAG </title> 
+    </head>
+
+    <body>
+	<h1 class="head"> <i> <u> DIMENSION</u> </i> </h1>
+	<div class="paragraph">
+	    <p class="first"> This paragraph is set so that it has its height on 70%. </p>
+	    <p class="second"> This paragraph is set so that it has its width on 70%. </p>
+	</div>
+    </body>
+
+</html>

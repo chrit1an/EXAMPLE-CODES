@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title>EXAMPLE CODES</title></head>
+<style type="text/css">
+
+.lol {width: 30% ;height: auto;text-align: center;}
+
+.container{height:100vh;background: linear-gradient(50deg, #FF5733,#6495ED);background-size: 300% 300%;animation: color 12s ease-in-out infinite;
+
+
+@keyframes color{0%{background-position: 0 60%;}70%{background-position: 150% 60%;}20%{background-position: 0 70%;}}
+</style>
+<body>
+<link rel="stylesheet" type="text/css">
+<div class="container"> 
+<table bgcolor="#608B99" align="center" width="90%" cellpadding="5">
+<tr>
+<td> <img src="embed.png" class="lol"> </td> 
+<td> <img src="embed txt.png" class="lol"> </td> </tr>
+<tr>
+<td> <img src="extern.png" class="lol"> </td> 
+<td> <img src="external.png" class="lol"> </td> </tr>
+<tr>
+<td> <img src="inlyn.png" class="lol"> </td> 
+<td> <img src="inline txt.png" class="lol"> </td> </tr>
+
+</table>
+</div>
+</body>
+</html>

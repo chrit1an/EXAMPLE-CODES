@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+    <head> 
+    <title>INLINE STYLE </title> 
+    </head>
+
+    <body>
+	<h1 style="text-align:center';> <i> <u> LESSON 1&2: CSS - INLINE STYLE </u> </i> </h1>
+	<p style="text-align:center;font-family:Arial;font-size:17px;"> 
+	A type of style sheet wherin we style the tags directly inside them, we use the style attribute. </p>
+    </body>
+
+</html>
+

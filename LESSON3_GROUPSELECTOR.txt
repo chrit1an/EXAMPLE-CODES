@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="LESSON3_GROUPSELECTOR.css">
+	<title> GROUP SELECTOR </title> 
+    </head>
+
+    <body>
+	<h1> <i> <u> GROUP SELECTOR </u> </i> </h1>
+	<p> This paragraph and the heading above have the same style because this is grouped into one form of style in the CSS file. </p>
+    </body>
+
+</html>

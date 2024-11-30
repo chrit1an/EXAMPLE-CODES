@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+    <head> 
+	<link rel="stylesheet" href="LESSON6_TYPOGRAPHY.css">
+	<title>TYPOGRAPHY </title> 
+    </head>
+
+    <body>
+	<h1 class="head"> <i> <u> TYPOGRAPHY </u> </i> </h1>
+	<div class="paragraph">
+
+	    <p class="one"> With the use of CSS, you can change a lot of things on your website's typography. </p>
+	    
+	    <p class="two"> You can change how
+		<span class="lolB"> BIG </span>
+		or <span class="lolS"> small</span>, 
+	    <br> how 
+		<span class="lol1"> thick </span>
+		or <span class="lol2"> italicized</span>, 
+	    <br> if the text is 
+		<span class="LOL-"> underlined</span>
+		, <span class="LOL_"> overlined</span>
+		, and much more!
+	    </p>
+
+	    <p class="three"> There are also pseudo-elements and pseudo-classes, 
+	    which allow us to format a specific part of or several parts of HTML elements. </p>
+
+	</div>
+    </body>
+
+</html>
